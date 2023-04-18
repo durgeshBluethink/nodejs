@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/durgeshBluethink/nodejs.git"
+    "url": "git+https://github.com/durgeshBluethink/Node.Js-durgesh-_Project.git"
   },
   "keywords": [
     "uway",
@@ -18,9 +18,9 @@
   "author": "durgesh kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/durgeshBluethink/nodejs/issues"
+    "url": "https://github.com/durgeshBluethink/Node.Js-durgesh-_Project/issues"
   },
-  "homepage": "https://github.com/durgeshBluethink/nodejs#readme",
+  "homepage": "https://github.com/durgeshBluethink/Node.Js-durgesh-_Project#readme",
   "dependencies": {
     "color": "^4.2.3",
     "simple-node-logger": "^21.8.12"
