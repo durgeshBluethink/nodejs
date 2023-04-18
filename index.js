@@ -1,8 +1,7 @@
-const http= require('http');
-const data = require('./data');
-http.createServer((req,resp)=>{
-resp.writeHead(500,{'Content-Type':'application\json'});
-resp.write(JSON.stringify(data));
-resp.end();
-}).listen(5000);
+// console.log(process.argv[1])
+const fs = require("fs");
+ const input =  process.argv;
+ fs.writeFileSync(input[2],input[3]);
+
+
 
