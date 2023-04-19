@@ -27,7 +27,7 @@ app.get('/help',(_,resp)=>{
 });
 
 app.get('*',(_,resp)=>{
-    resp.sendFile(`${publicPath}/index.html`)
+    resp.sendFile(`${publicPath}/nopage.html`)
 });
 
 app.listen(5000);
